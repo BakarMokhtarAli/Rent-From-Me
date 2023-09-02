@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export const EmptyRented = () => {
   return (
-    <section className="text-xl mt-[90px] text-center max-w-4xl mx-auto my-10 py-5 dark:text-slate-100 border dark:border-slate-700 rounded">
+    <section className="text-xl mt-[90px] text-center max-w-4xl mx-auto my-10 py-5 border rounded">
         <div className="my-5">
             <p className="bi bi-cart text-[#4D1489] text-7xl mb-5"></p>
             <p>Oops! Your order Renter looks empty!</p>
