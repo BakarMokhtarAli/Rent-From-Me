@@ -28,7 +28,7 @@ export const Header = () => {
   
   return (
   
-<nav className="bg-[#FEFEFE] fixed mb-[74px] top-0 left-0 right-0 shadow w-full border-gray-200 dark:bg-gray-900">
+<nav className="bg-[#FEFEFE] fixed mb-[74px] top-0 left-0 right-0 shadow w-full border-gray-200">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <Link href="/owner/home" className="flex items-center">
   <img src={logo} className="h-8 mr-3" alt="Flowbite Logo" />
