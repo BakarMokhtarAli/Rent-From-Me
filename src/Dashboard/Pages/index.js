@@ -1,0 +1,5 @@
+export { Home } from "./Home"
+export { Register } from "./Register"
+export { About } from "./About"
+export { SignIn } from "./SignIn"
+export { PageNotFound } from "./PageNotFound"
