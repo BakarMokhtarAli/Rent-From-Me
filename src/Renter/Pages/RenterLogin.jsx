@@ -16,7 +16,7 @@ useTitle("Renter Login")
     password: ""
   };
   const navigate = useNavigate()
-  const [ renterLogin ] = useRenterLoginMutation()
+  const [ renterLogin ] = useRenterLoginMutation();
 
   const validationSchema = Yup.object({
     
